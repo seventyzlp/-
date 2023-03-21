@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学/2.计算机图形学绪论.md",
+                "file": "影像色彩处理/1.传统胶片摄影影调控制手段.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1827e89d4df81024",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机图形学/2.计算机图形学绪论.md",
+                "file": "影像色彩处理/1.传统胶片摄影影调控制手段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机图形学/2.计算机图形学绪论.md",
+                "file": "影像色彩处理/1.传统胶片摄影影调控制手段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机图形学/2.计算机图形学绪论.md"
+                "file": "影像色彩处理/1.传统胶片摄影影调控制手段.md"
               }
             }
           }
