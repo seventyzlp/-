@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55e611346a761e47",
+            "id": "4193eb038541ab2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交互媒体技术/2. 概念模型和设计隐喻.md",
+                "file": "电影 建筑 空间/3.长镜头下的空间范围与营造.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7256869b9523e508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电影 建筑 空间/4.现代主义.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交互媒体技术/2. 概念模型和设计隐喻.md",
+                "file": "电影 建筑 空间/4.现代主义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "交互媒体技术/2. 概念模型和设计隐喻.md",
+                "file": "电影 建筑 空间/4.现代主义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交互媒体技术/2. 概念模型和设计隐喻.md"
+                "file": "电影 建筑 空间/4.现代主义.md"
               }
             }
           }
@@ -146,15 +159,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55e611346a761e47",
+  "active": "7256869b9523e508",
   "lastOpenFiles": [
-    "交互媒体技术/1.媒介革新中的数字化生存.md",
-    "交互媒体技术/2. 概念模型和设计隐喻.md",
-    "影像色彩处理/2.后期过程中化学影像的整体控制.md",
-    "影像色彩处理/1.传统胶片摄影影调控制手段.md",
+    "电影 建筑 空间/3.长镜头下的空间范围与营造.md",
+    "电影 建筑 空间/4.现代主义.md",
+    "交互媒体技术/3.情感化交互.md",
+    "交互媒体技术/2.概念模型和设计隐喻.md",
+    "电影 建筑 空间/2.蒙太奇与建筑.md",
     "电影 建筑 空间/1.建筑空间导论.md",
     "电影 建筑 空间/_电影·建筑·空间-概览.md",
     "计算机图形学/3.图元.md",
+    "交互媒体技术/1.媒介革新中的数字化生存.md",
+    "影像色彩处理/2.后期过程中化学影像的整体控制.md",
+    "影像色彩处理/1.传统胶片摄影影调控制手段.md",
     "电影 建筑 空间",
     "计算机图形学/2.计算机图形学绪论.md",
     "影视机械与电子技术应用/_影视机械与电子技术应用-概览.md",
