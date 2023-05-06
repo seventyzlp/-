@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4193eb038541ab2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电影 建筑 空间/3.长镜头下的空间范围与营造.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7256869b9523e508",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
