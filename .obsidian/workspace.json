@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7256869b9523e508",
+            "id": "56f4d1e681146ce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电影 建筑 空间/4.现代主义.md",
+                "file": "电影 建筑 空间/5.后现代主义.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电影 建筑 空间/4.现代主义.md",
+                "file": "电影 建筑 空间/5.后现代主义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电影 建筑 空间/4.现代主义.md",
+                "file": "电影 建筑 空间/5.后现代主义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电影 建筑 空间/4.现代主义.md"
+                "file": "电影 建筑 空间/5.后现代主义.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7256869b9523e508",
+  "active": "56f4d1e681146ce6",
   "lastOpenFiles": [
-    "电影 建筑 空间/3.长镜头下的空间范围与营造.md",
     "电影 建筑 空间/4.现代主义.md",
+    "电影 建筑 空间/5.后现代主义.md",
+    "电影 建筑 空间/3.长镜头下的空间范围与营造.md",
     "交互媒体技术/3.情感化交互.md",
     "交互媒体技术/2.概念模型和设计隐喻.md",
     "电影 建筑 空间/2.蒙太奇与建筑.md",
