@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2200b836bf5d7509","x":-317,"y":-76,"width":250,"height":60,"type":"text","text":"枪械射击FPS"},
+		{"id":"447bc8f35f5b5d1d","x":-660,"y":-76,"width":250,"height":60,"type":"text","text":"游戏核心"},
+		{"id":"7b51559b144ddfa0","x":-317,"y":20,"width":250,"height":60,"type":"text","text":"足球"},
+		{"id":"73a292f2326d67f6","x":-317,"y":-180,"width":250,"height":60,"type":"text","text":"UGC派对"},
+		{"id":"7534d6200aeab547","x":80,"y":20,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1f41a67673126c45","fromNode":"447bc8f35f5b5d1d","fromSide":"right","toNode":"2200b836bf5d7509","toSide":"left"},
+		{"id":"2653e892bc2c2fc3","fromNode":"447bc8f35f5b5d1d","fromSide":"right","toNode":"7b51559b144ddfa0","toSide":"left"},
+		{"id":"a1698739ec8ed856","fromNode":"447bc8f35f5b5d1d","fromSide":"right","toNode":"73a292f2326d67f6","toSide":"left"},
+		{"id":"2173df21e2504bf0","fromNode":"7b51559b144ddfa0","fromSide":"right","toNode":"7534d6200aeab547","toSide":"left"}
+	]
+}
