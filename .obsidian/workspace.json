@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "052c25d71c0006ff",
@@ -154,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c788aefa8b63a9f",
+  "active": "54a2aab8b00ee138",
   "lastOpenFiles": [
     "HCI/1..md",
     "HCI",
