@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ramanarayanan2007VisualET}
+Ganesh Ramanarayanan, James~A. Ferwerda, Bruce Walter, and Kavita Bala.
+\newblock Visual equivalence: towards a new standard for image fidelity.
+\newblock {\em ACM SIGGRAPH 2007 papers}, 2007.
+
+\bibitem{Guenter2012Foveated3G}
+Brian~K. Guenter, Mark Finch, Steven~Mark Drucker, Desney~S. Tan, and John~M.
+  Snyder.
+\newblock Foveated 3d graphics.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 31:1 -- 10, 2012.
+
+\bibitem{Vaidyanathan2014CoarsePS}
+Karthikeyan Vaidyanathan, Marco Salvi, R{\'o}bert T{\'o}th, Theresa Foley,
+  Tomas Akenine-M{\"o}ller, Jim Nilsson, Jacob Munkberg, Jon Hasselgren,
+  Masamichi Sugihara, Petrik Clarberg, Tomasz Janczak, and Aaron~E. Lefohn.
+\newblock Coarse pixel shading.
+\newblock In {\em High Performance Graphics}, 2014.
+
+\bibitem{10.1145/355017.355033}
+Derrick Parkhurst, Eugenio Culurciello, and Ernst Niebur.
+\newblock Evaluating variable resolution displays with visual search: task
+  performance and eye movements.
+\newblock In {\em Proceedings of the 2000 Symposium on Eye Tracking Research \&
+  Applications}, ETRA '00, page 105–109, New York, NY, USA, 2000. Association
+  for Computing Machinery.
+
+\bibitem{Strasburger2011PeripheralVA}
+Hans Strasburger, Ingo Rentschler, and Martin J{\"u}ttner.
+\newblock Peripheral vision and pattern recognition: a review.
+\newblock {\em Journal of vision}, 11 5:13, 2011.
+
+\bibitem{1020335127.nh}
+郑子鹏.
+\newblock 注视点数据驱动的vr渲染优化算法研究.
+\newblock Master's thesis, 广东工业大学, 2020.
+
+\bibitem{10.1145/355017.355032}
+Lester~C. Loschky and George~W. McConkie.
+\newblock User performance with gaze contingent multiresolutional displays.
+\newblock In {\em Proceedings of the 2000 Symposium on Eye Tracking Research \&
+  Applications}, ETRA '00, page 97–103, New York, NY, USA, 2000. Association
+  for Computing Machinery.
+
+\bibitem{VRS}
+https://developer.nvidia.com/vrworks/graphics/variablerateshading.
+
+\bibitem{825279}
+Kyung-Nam Kim and R.S. Ramakrishna.
+\newblock Vision-based eye-gaze tracking for human computer interface.
+\newblock In {\em IEEE SMC'99 Conference Proceedings. 1999 IEEE International
+  Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)}, volume~2,
+  pages 324--329 vol.2, 1999.
+
+\bibitem{4322822}
+David~A. Robinson.
+\newblock A method of measuring eye movemnent using a scieral search coil in a
+  magnetic field.
+\newblock {\em IEEE Transactions on Bio-medical Electronics}, 10(4):137--145,
+  1963.
+
+\bibitem{8122153}
+Pramodini~A. Punde, Mukti~E. Jadhav, and Ramesh~R. Manza.
+\newblock A study of eye tracking technology and its applications.
+\newblock In {\em 2017 1st International Conference on Intelligent Systems and
+  Information Management (ICISIM)}, pages 86--90, 2017.
+
+\bibitem{10.1145/91385.91449}
+Marc Levoy and Ross Whitaker.
+\newblock Gaze-directed volume rendering.
+\newblock In {\em Proceedings of the 1990 Symposium on Interactive 3D
+  Graphics}, I3D '90, page 217–223, New York, NY, USA, 1990. Association for
+  Computing Machinery.
+
+\bibitem{YXNX200402010}
+田宏杰 闫国利.
+\newblock 眼动记录技术与方法综述.
+\newblock {\em 应用心理学}, (02):55--58, 2004.
+
+\bibitem{SWGC198904009}
+孙复川 张名魁.
+\newblock 高抗干扰性的红外光电反射眼动测量仪.
+\newblock {\em 生物医学工程学杂志}, (04):282--286, 1989.
+
+\bibitem{8798030}
+Katsuyoshi Hotta, Oky Dicky~Ardiansyah Prima, Takashi Imabuchi, and Hisayoshi
+  Ito.
+\newblock Vr-hmd eye tracker in active visual field testing.
+\newblock In {\em 2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 1843--1847, 2019.
+
+\end{thebibliography}
